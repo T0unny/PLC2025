@@ -1,4 +1,4 @@
-TPC 2 - CConversor MarkDown Para HTML
+TPC 2 - Conversor MarkDown Para HTML
 
 Pedro Ribeiro, pg60421, 
 
