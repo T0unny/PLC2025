@@ -22,28 +22,27 @@ def list2(text):
     return result
 
 def conv(text):
-   er11=re.compile(r'^### (.+)$',re.MULTILINE) # Cabeçalho ###
+   er11=re.compile(r'^### (.+)$',re.MULTILINE) 
    text=er11.sub(r'<h3>\1</h3>',text)
    
-   er12=re.compile(r'^## (.+)$',re.MULTILINE) # Cabeçalho ##
+   er12=re.compile(r'^## (.+)$',re.MULTILINE) 
    text=er12.sub(r'<h2>\1</h2>',text)
    
-   er13=re.compile(r'^# (.+)$',re.MULTILINE) # Cabeçalho #
+   er13=re.compile(r'^# (.+)$',re.MULTILINE) 
    text=er13.sub(r'<h1>\1</h1>',text)
    
-   er2=re.compile(r'\*\*(.+?)\*\*') # Bold
+   er2=re.compile(r'\*\*(.+?)\*\*') 
    text=er2.sub(r'<b>\1</b>',text)
    
-   er3=re.compile(r'\*(.+?)\*') # Itálico
+   er3=re.compile(r'\*(.+?)\*') 
    text=er3.sub(r'<i>\1</i>',text)
    
-   text=list2(text) # Listas
+   text=list2(text) 
    
-   er4=re.compile(r'\!\[(.*?)\]\((.*?)\)') # Imagens
+   er4=re.compile(r'\!\[(.*?)\]\((.*?)\)') 
    text=er4.sub(r'<img src="\2" alt="\1"/>',text)
    
-   er5=re.compile(r'\[(.*?)\]\((.*?)\)') # Links
+   er5=re.compile(r'\[(.*?)\]\((.*?)\)') 
    text=er5.sub(r'<a href="\2">\1</a>',text)
   
    return(text)
-
