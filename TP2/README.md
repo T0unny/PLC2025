@@ -4,6 +4,8 @@ Pedro Ribeiro, pg60421,
 
 <img width="200" height="200" alt="1752183184539" src="https://github.com/user-attachments/assets/c0382365-4f1f-48fb-9f94-c1e56fafa0c3" />
 
+
+
 Os parâmetros de Cabeçalho, Bold, Itálico, Imagens e Links são tratados com substituições simples usando re.compile e o re.sub, o que torna o código mais limpo e fácil de ler.
 
 Nos cabeçalhos, a ordem de substituição é importante, temos que começa-se por ###, depois ## e só no fim #. Desta forma, evitamos que uma linha marcada como ### seja interpretada incorretamente como # ou ##. O mesmo é aplicado a Imagens e Links, primeiro processamos as Imagens e só depois os Links.
