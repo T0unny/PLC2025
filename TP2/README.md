@@ -4,7 +4,7 @@ Pedro Ribeiro, pg60421,
 
 <img width="200" height="200" alt="1752183184539" src="https://github.com/user-attachments/assets/c0382365-4f1f-48fb-9f94-c1e56fafa0c3" />
 
-
+Resumo:
 
 Os parâmetros de Cabeçalho, Bold, Itálico, Imagens e Links são tratados com substituições simples usando re.compile e o re.sub, o que torna o código mais limpo e fácil de ler.
 
