@@ -47,21 +47,3 @@ def conv(text):
   
    return(text)
 
-
-
-texto = """# Título Principal
-## Subtítulo
-Este é um **exemplo em bold** e este é um *exemplo em itálico*.
-
-Lista numerada:
-1. Primeiro item
-2. Segundo item
-3. Terceiro item
-
-Aqui está um [link para a UC](http://www.uc.pt).
-
-Aqui está uma imagem: ![um coelho](http://www.coellho.com)
-"""
-print(f"----------ORIGINAL----------\n{texto}")
-print("---------CONVERTIDO---------")
-print(conv(texto))
