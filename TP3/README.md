@@ -7,6 +7,3 @@ Pedro Ribeiro, pg60421,
 Resumo:
 
 
-Código da resolução do TPC : [TP2/TPC2.py](https://github.com/T0unny/PLC2025/blob/main/TP2/TPC2.py)
-
-Notebook do código com exemplo : [TP2/TPC2.ipynb](https://github.com/T0unny/PLC2025/blob/main/TP2/TPC2.ipynb) 
