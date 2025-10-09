@@ -1,9 +1,10 @@
-TPC 1 - Expressões Regulares
+# TPC 1 - Expressões Regulares
 
-Pedro Ribeiro, pg60421,
+### Pedro Ribeiro, pg60421,
 
 <img width="200" height="200" alt="1752183184539" src="https://github.com/user-attachments/assets/c0382365-4f1f-48fb-9f94-c1e56fafa0c3" />
 
+## Resumo:
 O exercício consiste em uma expressão regular para um numero binário que não pode conter o subconjunto 011.
 Para não obtermos este subconjunto, após um 0, apenas um 1 pode existir.
 1* faz com que seja possível iniciar com o valor 1 e também permite a sua repetição ou até nenhuma iteração, ex. 111111.
