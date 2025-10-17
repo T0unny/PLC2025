@@ -14,4 +14,4 @@ Para não ter erros na leitura dos códigos dos produtos criei um token para os 
 É tambem possivel verificar o saldo e quando o utilizador sai da máquina esta devolve o dinheiro usando a função de conversão de float para moedas.
 Por fim volto a escrever no ficheiro json.
 
-Código de Resolução: [TPC5.py]()
+Código de Resolução: [TPC5.py](https://github.com/T0unny/PLC2025/blob/main/TP5/TPC5.py)
