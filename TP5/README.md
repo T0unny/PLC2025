@@ -1,4 +1,4 @@
-# TPC 3 - Máquina de Vending
+# TPC 5 - Máquina de Vending
 
 ### Pedro Ribeiro, pg60421 
 
