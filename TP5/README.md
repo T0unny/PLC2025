@@ -15,3 +15,4 @@ Para não ter erros na leitura dos códigos dos produtos criei um token para os 
 Por fim volto a escrever no ficheiro json.
 
 Código de Resolução: [TPC5.py](https://github.com/T0unny/PLC2025/blob/main/TP5/TPC5.py)
+Ficheiro JSON exemplo: [Stock.json](https://github.com/T0unny/PLC2025/blob/main/TP5/stock.json)
