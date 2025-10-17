@@ -10,4 +10,4 @@ Quando encontradas são colocadas num dicionario onde posteriormente temos uma l
 Tambem adicionei o count para fazer a contagem das linhas.
 
 
-Código de Resolução: [TPC3.py](https://github.com/T0unny/PLC2025/blob/a9edf5d5e7654a431f523dd219f463e5688c6d6d/TP3/TPC3.py)
+Código de Resolução: [TPC4.py](https://github.com/T0unny/PLC2025/blob/a9edf5d5e7654a431f523dd219f463e5688c6d6d/TP4/TPC4.py)
