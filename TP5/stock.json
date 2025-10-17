@@ -1,0 +1,50 @@
+[
+    {
+        "cod": "A23",
+        "nome": "\u00e1gua 0.5L",
+        "quant": 10,
+        "preco": 0.7
+    },
+    {
+        "cod": "B15",
+        "nome": "bolacha maria",
+        "quant": 20,
+        "preco": 1.2
+    },
+    {
+        "cod": "C34",
+        "nome": "chocolate 100g",
+        "quant": 14,
+        "preco": 1.5
+    },
+    {
+        "cod": "D12",
+        "nome": "detergente 1L",
+        "quant": 10,
+        "preco": 2.0
+    },
+    {
+        "cod": "E45",
+        "nome": "esparguete 500g",
+        "quant": 25,
+        "preco": 1.0
+    },
+    {
+        "cod": "F31",
+        "nome": "kinder bueno",
+        "quant": 14,
+        "preco": 1.05
+    },
+    {
+        "cod": "G27",
+        "nome": "iogurte natural",
+        "quant": 17,
+        "preco": 0.9
+    },
+    {
+        "cod": "H09",
+        "nome": "hamburguer 100g",
+        "quant": 12,
+        "preco": 2.5
+    }
+]
