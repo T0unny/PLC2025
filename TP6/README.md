@@ -27,5 +27,5 @@ Depois modifiquei o parsser, para reconhecer numeros, parenteses e operações.
 
 Foi criado tambem um analisador lexico correspondete para a gramática.
 
-Código de Resolução: [TPC6.py]()
+Código de Resolução: [TPC6.py](./tpc6.py)
 
